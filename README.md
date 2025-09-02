@@ -17,7 +17,8 @@ I enjoy building **SQL projects, Python automation scripts, and dashboards with 
 ## 🛠️ Languages and Tools  
 
 **Languages:**  
-Python | SQL | HTML | CSS  
+Python  https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg
+| SQL | HTML | CSS  
 
 **Data & Analytics Tools:**  
 Excel | Power BI | Jupyter Notebook | Pandas | NumPy | Matplotlib  
